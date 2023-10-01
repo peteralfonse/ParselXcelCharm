@@ -1,0 +1,7 @@
+# Ignore files with .log extension
+*.log
+
+# Ignore directories named "temp" and its contents
+temp/
+dist/
+build/
